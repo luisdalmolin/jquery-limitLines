@@ -17,5 +17,5 @@ $('#text').limitLines();
 
 ## To do
 
-* Unit Testint
+* Unit Tests
 * More configurations options
